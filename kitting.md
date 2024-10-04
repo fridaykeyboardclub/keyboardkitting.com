@@ -1,55 +1,75 @@
-# Keyboard kitting
+Keyboard kitting
+================
 
-![Kitting](kitting.png)
+![](kitting.png)
 
-## Base kit
+Base Kit
+--------
 
-* White: ANSI TKL base kit, plus barred F and J
-* Cyan: F13
-* Red: Tsangan bottom row
-* Violet: Stepped caps lock
-* Orange: 65% and 75% layout with common right columns
-    * 65%: Del, Pg Up, Pg Dn, End
-    * 75%: Del, Home, Pg Up, Pg Dn, End
-    * Extra mods for keys between spacebar and arrows on 65%/67% with no bottom row blocker:
-        * 1u Ctrl and 1u Alt (plus 1u Super from red kit) to support 3x1u
-        * (1.5u Ctrl and 1.5u Alt from the red kit to support 2x1.5u)
-* Brown: R1 End key to support:
-    * Uncommon right column on 75%: End, Insert, Del, Pg Up, Pg Dn (with extension kit)
-    * 1800 layout (with numpad kit)
-* Green: HHKB
+#### White: ANSI TKL
+These keys support standard ANSI TKL layout with a 6.25u bottom row. Barred F and J are also provided, the non-barred versions may be scooped or plain.
 
-## Extension kit
+#### Red: Tsangan
+This is a very common option on many boards as an alternative to 6.25u bottom row, and on some boards - particularly TKLs - is the only bottom row option available.
 
-* Blue: UK ISO
-* Yellow: US/International ISO and Mac ISO
-    * Also requires ISO enter, 1.25u R4 left shift
-    * UK Mac ISO requires R1 3/£
-* Teal: Uncommon 65%/75% layouts
-    * 2u/2.25u right shift for keyboards where arrows are offset by 0.25u/0.5u
-    * 2u right shift can also be used as left shift on non-standard stagger (eg, DZ60 PCB)
-    * Support uncommon right columns on 65%/75%:
-        * 75%: Del, Pg Up, Pg Dn, Home, End (eg, Keychron K2)
-        * 75%: blocker/rotary, Insert, Delete, Pg Up, Pg Dn
-        * 65%: Insert, Del, Pg Up, Pg Dn (eg, default on CU65, Practice65, Space65)
-            * This layout preserves the position of Insert & Delete as on standard TKL
-        * 65%: blank, Delete, Pg Up, Pg Dn (eg, default on Iron165)
-        * 65%: Del, Home, Pg Up, Pg Dn (eg, Drop Alt)
-* Pink: Tsangan Mac bottom row (second 1u R4 alt is in orange keys in the base kit)
-* Grey: Alice spacebars
-    * 2.25u and 2.75u are also standard for split spacebar; 2.25-1.25-2.75
-* Purple: Uncommon keys for caps lock area
+#### Cyan: F13
+TKLs with this key are increasingly common, including in-stock options such as the Novelkeys NK87 and NK87 EE. It is added in the base kit to avoid the need to buy an extension kit for a single key for boards like this.
 
-## Numpad
+#### Purple: Stepped caps
+Stepped caps lock and stepped ctrl
 
-* White: Standard numpad, plus:
-    * Barred 5
-    * 1u 0 for 1800 layout and use with 00
-* 1u 00
+#### Orange: 65/75
+Support for 65% and 75% layouts with the most common rightmost columns
+
+* 65%: Del, Pg Up, Pg Dn, End
+* 75%: Del, Home, Pg Up, Pg Dn, End
+* Extra 1u  Ctrl and Alt mods are included for the space between the spacebar and arrows on 65% and 75% layouts that don't have a blocker. An extra 1u super key is already included in the red keys
+
+#### Green: HHKB
+* In combination with the super and alt from the red keys and 1.65u shift from the orange keys, Windows/Linux HHKB layout is supported
+* In combination with the pink Mac keys, Mac HHKB layout is supported
+
+#### Brown: 1800
+R1 End key to support uncommon 75% layouts with the extension kit, or 1800 layouts with the numpad kit. This is included in the base kit to avoid the need to buy all three kits for 1800 layout
+
+#### Blue: UK ISO
+These are not provided in a NorDe international kit because UK ISO keys do not overlap with any keys in German, Swedish/Finnish, Norwegian or Danish.
+
+#### Pink: Mac
+Super and Alt (Command and Option) are swapped round on the bottom row on Mac, so these are required for Mac bottom row support when using Tsangan layout
+
+#### Grey: Forties and Alice
+* Supports the usual Alice/Arisu spacebar sizes of 2u, 2.25u and 2.75u
+* Extra B for Alice
+* Allows use of split spacebar on boards like the Ikki68 Aurora, in 2.25 - 1.25 - 2.75 layout
+* Basic support for forties layouts, such as Planck, Minivan, Neko, UD\_40, UT47, Daisy
+
+#### Teal: Uncommon 65/76
+* 2u and 2.25u Right Shift for layouts where arrows are offset by 0.25u/0.5u (eg, "660" layout); 2u is also used for ANSI left shift when using non-standard stagger (eg DZ60 PCB)
+* Support for uncommon right columns on 65/75:
+    * 75%: Del, Pg Up, Pg Dn, Home, End (eg, Keychron K2)
+    * 75%: blocker/rotary, Insert, Delete, Pg Up, Pg Dn
+    * 65%: Insert, Del, Pg Up, Pg Dn (eg, default on CU65, Practice65, Space65)
+        * This layout preserves the position of Insert & Delete as on standard TKL
+    * 65%: blocker/rotary, Delete, Pg Up, Pg Dn (eg, default on Iron165)
+    * 65%: Del, Home, Pg Up, Pg Dn (eg, Drop Alt)
+
+#### Yellow: US/Terminal ISO
+US ISO "Terminal ISO" keys. Some people like this I guess.
+
+Numpad
+------
+
+#### White: Numpad
+* Adds 1u zero either for use alongside 00, or for 1800 layout where that space is taken by arrows
 * Barred 5
-* Pink: Mac numpad
-* Brown
-    * R4 Pg Dn, for above the numpad on 1800 layout
+
+#### Pink: Mac
+* Mac numpads use this layout of equals, minus and plus on the leftmost column instead of 1u minus and 2u-tall plus
+* Clear key instead of num lock key
+
+#### Brown: 1800
+Pg Dn goes above the numpad on 1800 layout. This is used alongside the R1 Home key from the base kit
 
 <hr />
 
