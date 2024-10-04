@@ -33,10 +33,10 @@ Support for 65% and 75% layouts with the most common rightmost columns
 On 1800 layout, End and Pg Dn sit on R1, above the numpad. The End key is provided in the base kit to also allow use of the end key with uncommon 75% layouts where Home and End are on the top row.
 
 #### Blue: UK ISO
-These are not provided in a NorDe international kit because UK ISO keys do not overlap with any keys in German, Swedish/Finnish, Norwegian or Danish.
+These are provided in the base kit rather than a NorDeUK kit because of the small number of keys, and because UK ISO keys do not overlap with any keys in German, Swedish/Finnish, Norwegian or Danish. A NorDe kit should be provided instead.
 
 #### Pink: Mac
-Super and Alt (Command and Option) are swapped round on the bottom row on Mac, so these are required for Mac bottom row support when using Tsangan layout
+Super and Alt (Command and Option) are swapped round on the bottom row on Mac, so these are required for Mac bottom row support when using Tsangan layout. The second 1u Alt is already included with the orange keys.
 
 #### Grey: Forties and Alice
 * Supports the usual Alice/Arisu spacebar sizes of 2u, 2.25u and 2.75u
@@ -55,7 +55,7 @@ Super and Alt (Command and Option) are swapped round on the bottom row on Mac, s
     * 65%: Del, Home, Pg Up, Pg Dn (eg, Drop Alt)
 
 #### Yellow: US/Terminal ISO
-US ISO "Terminal ISO" keys. Some people like this I guess.
+US ISO "Terminal ISO" keys. Some people like this layout I guess.
 
 Numpad
 ------
