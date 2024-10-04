@@ -16,21 +16,21 @@ This is a very common option on many boards as an alternative to 6.25u bottom ro
 TKLs with this key are increasingly common, including in-stock options such as the Novelkeys NK87 and NK87 EE. It is added in the base kit to avoid the need to buy an extension kit for a single key for boards like this.
 
 #### Purple: Stepped caps
-Stepped caps lock and stepped ctrl
+Stepped Caps Lock and stepped Ctrl
 
 #### Orange: 65/75
 Support for 65% and 75% layouts with the most common rightmost columns
 
 * 65%: Del, Pg Up, Pg Dn, End
 * 75%: Del, Home, Pg Up, Pg Dn, End
-* Extra 1u  Ctrl and Alt mods are included for the space between the spacebar and arrows on 65% and 75% layouts that don't have a blocker. An extra 1u super key is already included in the red keys
+* Extra 1u Ctrl and Alt mods are included for the space between the spacebar and arrows on 65% and 75% layouts that don't have a blocker. An extra 1u super key is already included in the red keys
 
 #### Green: HHKB
-* In combination with the super and alt from the red keys and 1.65u shift from the orange keys, Windows/Linux HHKB layout is supported
+* In combination with the super and alt from the red keys and 1.75u shift from the orange keys, Windows/Linux HHKB layout is supported
 * In combination with the pink Mac keys, Mac HHKB layout is supported
 
 #### Brown: 1800
-R1 End key to support uncommon 75% layouts with the extension kit, or 1800 layouts with the numpad kit. This is included in the base kit to avoid the need to buy all three kits for 1800 layout
+On 1800 layout, End and Pg Dn sit on R1, above the numpad. The End key is provided in the base kit to also allow use of the end key with uncommon 75% layouts where Home and End are on the top row.
 
 #### Blue: UK ISO
 These are not provided in a NorDe international kit because UK ISO keys do not overlap with any keys in German, Swedish/Finnish, Norwegian or Danish.
