@@ -65,7 +65,7 @@ Numpad
 * Barred 5
 
 #### Pink: Mac
-* Mac numpads use this layout of equals, minus and plus on the leftmost column instead of 1u minus and 2u-tall plus
+* Mac numpads use this layout of equals, minus and plus on the rightmost column instead of 1u minus and 2u-tall plus
 * Mac numpads don't have Num Lock, so the Clear key is provided instead
 
 #### Brown: 1800
