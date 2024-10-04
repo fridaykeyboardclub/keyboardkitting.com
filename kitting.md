@@ -66,7 +66,7 @@ Numpad
 
 #### Pink: Mac
 * Mac numpads use this layout of equals, minus and plus on the leftmost column instead of 1u minus and 2u-tall plus
-* Clear key instead of num lock key
+* Mac numpads don't have Num Lock, so the Clear key is provided instead
 
 #### Brown: 1800
 Pg Dn goes above the numpad on 1800 layout. This is used alongside the R1 Home key from the base kit
